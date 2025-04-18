@@ -6,7 +6,6 @@ import hashlib
 import time
 import base64
 
-
 # ----------------------------- UI Styling -----------------------------
 def get_base64_image(image_path):
     with open(image_path, "rb") as img_file:
